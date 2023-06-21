@@ -1,0 +1,85 @@
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 1.5em;
+  height: 100%;
+  width: 100%;
+}
+
+slides > slide {
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+}
+
+slides > slide:not(.nobackground):after {
+  content: '';
+}
+
+a:hover{
+  background: red;
+}
+a:active{
+  background-color: yellow;
+}
+
+/*
+  Per centrare i grafici (utilizzato come default per ogni slide)
+*/
+.centra{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height: 100%;
+}
+
+/*
+  Sx e dx slide "Breve Biografia"
+*/
+.sxBB {
+	float: left;
+	width: 35%;
+  height: 100%;
+  margin: 0 20px;
+}
+.dxBB {
+	float: left;
+	width: 530px;
+  height: 298px;
+	margin: 0 40px 0 0;
+	background-image: url("shiffrinGlobo1.png");
+  color: white;
+}
+
+/*
+  Sx e dx slide "Descrizione Specialità"
+*/
+.main {
+	float: left;
+	width: 30%;
+  height: 100%;
+	margin: 0 20px;
+}
+.secondary {
+	float: left;
+	width: 600px;
+  height: 338px;
+	margin: 0 20px 0 0;
+	background-image: url("Shiffrin.png");
+  color: black;
+}
+
+/*
+  Slide grafico media punteggio 
+*/
+.left {
+	float: left;
+	width: 60%;
+  height: 100%;
+}
+
+.right {
+	float: right;
+	width: 20%;
+  height: 100%;
+}
