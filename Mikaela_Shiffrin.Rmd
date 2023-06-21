@@ -28,22 +28,18 @@ library(tidyr)
 library(readr)
 library(dplyr)
 library(ggplot2)
-library(tibble)
 library(gganimate)
 library(leaflet)
 library(leaflet.providers)
 library(leaflet.extras)
 library(htmltools)
-library(viridis)
-library(hrbrthemes)
-library(gridExtra)
+library(hrbrthemes) #per tema distacchi
 library(highcharter)
-library(gifski)
 library(png)
 library(knitr)
 
 
-mikaela = read_csv("MS-gare.csv")
+mikaela = read_csv("MS-gare.csv") #importazione del dataset
 
 
 
@@ -443,22 +439,20 @@ indice <- rep(1:6, each = 1)
 
 
 ##df per combinare anche le medie e definire un indice
-df_x <- data.frame(indice, AllS[, 1], as.numeric(AllS[, 2]), AllS[, 3])
+df_Finale <- data.frame(indice, AllS[, 1], as.numeric(AllS[, 2]), AllS[, 3])
 
-names(df_x) <- c("Indice", "Specialita", "MediaP", "Stagione")
+names(df_Finale) <- c("Indice", "Specialita", "MediaP", "Stagione")
 
 
-p <- ggplot(df_x, aes(x = Specialita, y = MediaP, fill = Specialita)) +
+p <- ggplot(df_Finale, aes(x = Specialita, y = MediaP, fill = Specialita)) +
   geom_bar(stat = "identity") +
   labs(title = "Stagione: {closest_state}") +
   ylab("Media") +
   xlab("Nome Disciplina") +
   geom_text(aes(label = MediaP, y = MediaP),
-            position = position_dodge(0.4), vjust = -0.5, size = 5, color = "black") +
+            vjust = -0.5, size = 5, color = "black") +
   theme_classic() +
   transition_states(states = Stagione) +
-  enter_fade() +
-  exit_shrink() +
   theme(
     axis.title = element_text(size = rel(1.1)),
     axis.text = element_text(size = rel(1)),
@@ -703,7 +697,7 @@ highchart() %>%
     hc_xAxis(categories = nVpP$'Pista',
              style = list(
                 fontWeight = "bold")) %>%
-    hc_yAxis(categories = as.character(c(0:10))) %>%
+    hc_yAxis(categories = (0:10)) %>%
     hc_title(text = "Numero Vittorie per Pista") %>%
     hc_add_theme(hc_theme_bloom()) %>%
     hc_legend(enabled= FALSE) %>%
@@ -716,7 +710,7 @@ highchart() %>%
 nVpPTabella =  mikaela %>%
                 select(Pista) %>%
                 filter(Pista == "Killington" | Pista == "Zagabria" | Pista == "Are" | Pista == "Levi" | Pista == "Courchevel" | Pista == "Semmering") %>%
-                group_by(Pista, .drop = TRUE) %>%
+                group_by(Pista) %>%
                 summarise(conta = n()) 
 
 kable(nVpPTabella, format = "simple", col.names = c("Pista", "Numero Gare"), align = "c")
