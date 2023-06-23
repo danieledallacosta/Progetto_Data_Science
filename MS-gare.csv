@@ -1,0 +1,250 @@
+All,Stagione,Giorno,Mese,Specialita,PosizionediPartenza,PosizioneSecondaManche,PosizioneFinale,Tempo,Distacco,Paese,Pista,Altitudine,Punteggio,Latitudine,Longitudine
+249,22_23,19,3,Slalom Gigante,1,1,1,01:56:28,-0.06,Andorra,Soldeu,2500,100,43,2
+248,22_23,18,3,Slalom Speciale,2,4,3,01:52:24,0.86,Andorra,Soldeu,2250,60,43,2
+247,22_23,16,3,SuperG,12,NA,14,01:28:16,1.46,Andorra,Soldeu,2550,18,43,2
+246,22_23,11,3,Slalom Speciale,5,1,1,01:42:17,-0.92,Svezia,Are,630,100,63,13
+245,22_23,10,3,Slalom Gigante,7,1,1,01:55:04,-0.64,Svezia,Are,730,100,63,13
+244,22_23,5,3,SuperG,7,NA,7,01:30:00,0.98,Norvegia,Kvitfjell,1030,100,59,9
+243,22_23,4,3,Discesa Libera,4,NA,5,01:33:15,0.79,Norvegia,Kvitfjell,1030,36,59,9
+242,22_23,3,3,SuperG,4,NA,4,01:27:09,0.29,Norvegia,Kvitfjell,1030,45,59,9
+241,22_23,29,1,Slalom Speciale,6,1,2,01:31:37,0.06,Repubblica Ceca,Spindleruv Mlyn,1250,100,51,16
+240,22_23,28,1,Slalom Speciale,2,1,1,01:34:25,-0.6,Repubblica Ceca,Spindleruv Mlyn,1250,100,51,16
+239,22_23,25,1,Slalom Gigante,4,1,1,02:03:28,-0.82,Italia,Kronplatz,2275,100,47,12
+238,22_23,24,1,Slalom Gigante,4,1,1,02:01:01,-0.45,Italia,Kronplatz,2300,100,47,12
+237,22_23,22,1,SuperG,6,NA,7,01:24:24,0.62,Italia,Cortina,2348,36,44,12
+236,22_23,21,1,Discesa Libera,18,NA,7,01:05:12,0.39,Italia,Cortina,2350,36,44,12
+235,22_23,20,1,Discesa Libera,21,NA,4,01:34:37,0.5,Italia,Cortina,2350,50,44,12
+234,22_23,10,1,Slalom Speciale,1,2,2,01:52:38,0.43,Austria,Flachau,1100,80,47,13
+233,22_23,8,1,Slalom Gigante,1,1,1,01:52:53,0.77,Slovenia,Kranjska Gora,1100,100,46,14
+232,22_23,7,1,Slalom Gigante,2,5,6,01:56:04,1.33,Slovenia,Kranjska Gora,1200,40,46,14
+231,22_23,4,1,Slalom Speciale,7,1,1,01:36:42,-0.76,Croazia,Zagabria,1030,100,46,16
+230,22_23,29,12,Slalom Speciale,6,1,1,01:43:26,-0.29,Austria,Semmering,1200,100,47,16
+229,22_23,28,12,Slalom Gigante,7,2,1,02:03:51,-0.1,Austria,Semmering,1100,100,47,16
+228,22_23,27,12,Slalom Gigante,1,1,1,02:07:18,-0.13,Austria,Semmering,1250,100,47,16
+227,22_23,18,12,SuperG,7,NA,1,01:14:02,-0.12,Svizzera,Sankt Moritz,2700,100,46,10
+226,22_23,17,12,Discesa Libera,21,NA,4,01:29:46,0.61,Svizzera,Sankt Moritz,2600,50,46,10
+225,22_23,16,12,Discesa Libera,22,NA,6,01:11:03,1.23,Svizzera,Sankt Moritz,2900,40,46,10
+224,22_23,11,12,Slalom Speciale,6,3,2,01:57:16,0.47,Italia,Sestriere,2350,80,45,7
+223,22_23,10,12,Slalom Gigante,3,4,6,01:13:14,1.96,Italia,Sestriere,2400,40,45,7
+222,22_23,27,11,Slalom Speciale,2,1,5,01:43:56,0.59,Stati Uniti,Killington,1400,45,44,-72
+221,22_23,26,11,Slalom Gigante,5,10,13,01:45:48,1.4,Stati Uniti,Killington,1300,20,44,-72
+220,22_23,20,11,Slalom Speciale,2,1,1,01:52:21,-0.28,Finlandia,Levi,580,100,68,25
+219,22_23,19,11,Slalom Speciale,6,3,1,01:51:25,-0.16,Finlandia,Levi,630,100,68,25
+218,21_22,20,3,Slalom Gigante,2,1,7,02:15:35,0.67,Francia,Meribel,1900,36,46,6
+217,21_22,19,3,Slalom Speciale,4,5,8,01:38:02,1,Francia,Meribel,2100,32,46,6
+216,21_22,17,3,SuperG,11,NA,2,01:14:08,0.05,Francia,Courchevel,2500,80,45,6
+215,21_22,16,3,Discesa Libera,21,NA,1,01:27:00,-0.1,Francia,Courchevel,2300,100,45,6
+214,21_22,12,3,Slalom Speciale,2,4,9,01:47:28,0.8,Svezia,Are,630,29,63,13
+213,21_22,11,3,Slalom Gigante,3,6,3,02:34:20,1.7,Svezia,Are,730,60,63,13
+212,21_22,6,3,Slalom Gigante,2,2,4,02:03:12,0.77,Svizzera,Lenzerheide,2300,50,47,10
+211,21_22,5,3,SuperG,15,NA,2,01:20:26,0.38,Svizzera,Lenzerheide,2400,80,47,10
+210,21_22,25,1,Slalom Gigante,4,3,5,02:04:44,0.81,Italia,Kronplatz,2275,45,47,12
+209,21_22,23,1,SuperG,17,NA,16,1;21:99,1.01,Italia,Cortina,2175,14,44,12
+208,21_22,11,1,Slalom Speciale,2,5,1,01:33:06,-0.15,Austria,Schladming,950,100,47,14
+207,21_22,9,1,Slalom Speciale,7,3,40,NA,NA,Slovenia,Kranjska Gora,1120,0,46,14
+206,21_22,8,1,Slalom Gigante,3,14,7,02:16:24,2.05,Slovenia,Kranjska Gora,1100,36,46,14
+205,21_22,4,1,Slalom Speciale,7,2,2,01:57:40,0.5,Croazia,Zagabria,860,80,46,16
+204,21_22,22,12,Slalom Gigante,5,3,2,02:13:38,0.35,Francia,Courchevel,2250,80,45,6
+203,21_22,21,12,Slalom Gigante,5,1,1,02:15:35,-0.86,Francia,Courchevel,2400,80,45,6
+202,21_22,19,12,SuperG,15,NA,5,01:20:38,0.75,Francia,Val d'Isere,2747,45,45,7
+201,21_22,12,12,SuperG,2,NA,3,10:24:00,0.43,Svizzera,Sankt Moritz,2840,60,46,10
+200,21_22,11,12,SuperG,8,NA,3,01:21:00,1.18,Svizzera,Sankt Moritz,2930,60,46,10
+199,21_22,5,12,SuperG,18,NA,6,01:19:26,0.58,Canada,Lake Louise,2225,40,51,-116
+198,21_22,4,12,Discesa Libera,31,NA,38,01:52:22,3.44,Canada,Lake Louise,2275,0,51,-116
+197,21_22,3,12,Discesa Libera,31,NA,26,01:50:55,3.6,Canada,Lake Louise,2340,5,51,-116
+196,21_22,28,11,Slalom Speciale,5,2,1,01:38:33,-0.75,Stati Uniti,Killington,1300,100,44,-72
+195,21_22,21,11,Slalom Speciale,1,2,2,01:46:09,0.47,Finlandia,Levi,630,80,68,25
+194,21_22,20,11,Slalom Speciale,3,2,2,01:46:50,0.31,Finlandia,Levi,580,80,68,25
+193,21_22,23,10,Slalom Gigante,1,2,1,02:07:22,-0.13,Austria,Solden,3048,100,47,11
+192,20_21,21,3,Slalom Gigante,3,1,2,02:20:16,0.56,Svizzera,Lenzerheide,2300,80,47,10
+191,20_21,20,3,Slalom Speciale,4,3,2,01:51:01,0.34,Svizzera,Lenzerheide,1474,80,47,10
+190,20_21,13,3,Slalom Speciale,2,1,2,01:49:05,1.28,Svezia,Are,630,80,63,13
+189,20_21,12,3,Slalom Speciale,5,2,3,01:46:20,0.64,Svezia,Are,750,60,63,13
+188,20_21,6,3,Slalom Gigante,2,1,3,02:17:03,0.47,Slovacchia,Jasna,1500,60,49,19
+187,20_21,6,3,Slalom Speciale,6,2,1,01:44:28,-0.3,Slovacchia,Jasna,1250,100,49,19
+186,20_21,26,1,Slalom Gigante,4,2,4,02:12:46,1.08,Italia,Kronplatz,2300,50,47,12
+185,20_21,17,1,Slalom Gigante,1,1,6,02:19:33,1.26,Slovenia,Kranjska Gora,1200,40,46,14
+184,20_21,16,1,Slalom Gigante,7,4,6,02:14:08,2.18,Sloveniza,Kranjska Gora,1100,40,46,14
+183,20_21,12,1,Slalom Speciale,5,2,1,01:48:32,-0.19,Austria,Flachau,1125,100,47,13
+182,20_21,3,1,Slalom Speciale,5,4,4,01:59:35,0.22,Croazia,Zagabria,860,50,46,16
+181,20_21,29,12,Slalom Speciale,6,1,3,01:43:02,0.58,Austria,Semmering,1200,60,47,16
+180,20_21,14,12,Slalom Gigante,3,1,1,02:20:03,-0.83,Francia,Courchevel,2400,100,45,6
+179,20_21,12,12,Slalom Gigante,2,2,4,02:21:13,1.7,Francia,Courchevel,2300,50,45,6
+178,20_21,22,11,Slalom Speciale,4,4,5,01:50:38,0.93,Finlandia,Levi,580,45,68,25
+177,20_21,21,11,Slalom Speciale,1,2,2,01:50:29,0.28,Finlandia,Levi,630,80,68,25
+176,19_20,26,1,SuperG,13,NA,1,01:11:28,-0.29,Bulgaria,Bansko,1750,100,42,23
+175,19_20,25,1,Discesa Libera,5,NA,4,01:30:06,0.35,Bulgaria,Bansko,1660,50,42,23
+174,19_20,24,1,Discesa Libera,16,NA,1,01:30:19,-0.17,Bulgaria,Bansko,1880,100,42,23
+173,19_20,19,1,Slalom Parallelo,NA,NA,9,20:55:00,-1.02,Italia,Sestriere,2300,29,45,7
+172,19_20,18,1,Slalom Gigante,7,4,3,02:21:16,0.01,Italia,Sestriere,2400,60,45,7
+171,19_20,14,1,Slalom Speciale,4,2,3,01:54:08,0.43,Austria,Flachau,1300,60,47,13
+170,19_20,12,1,Combinata Alpina,21,NA,39,NA,NA,Austria,Altenmarkt-Zauchensee,1350,0,47,13
+169,19_20,4,1,Slalom Speciale,7,2,2,01:59:29,0.59,Croazia,Zagabria,860,80,46,16
+168,19_20,29,12,Slalom Speciale,3,1,1,01:49:29,-0.61,Austria,Lienz,670,100,46,12
+167,19_20,28,12,Slalom Gigante,4,1,1,02:07:31,-0.36,Austria,Lienz,750,100,46,12
+166,19_20,17,12,Slalom Gigante,1,19,17,02:14:24,1.47,Francia,Courchevel,2200,14,45,6
+165,19_20,14,12,SuperG,13,NA,3,01:13:09,0.14,Svizzera,Sankt Moritz,2750,60,46,10
+164,19_20,8,12,SuperG,9,NA,10,01:21:18,1.18,Canada,Lake Louise,2225,26,51,-116
+163,19_20,7,12,Discesa Libera,12,NA,2,01:50:05,0.13,Canada,Lake Louise,2300,80,51,-116
+162,19_20,6,12,Discesa Libera,6,NA,10,01:33:23,0.94,Canada,Lake Louise,2200,26,51,-116
+161,19_20,1,12,Slalom Speciale,3,1,1,01:50:45,-2.19,Stati Uniti,Killington,1100,100,44,-72
+160,19_20,30,11,Slalom Gigante,3,5,3,01:38:48,0.27,Stati Uniti,Killington,1400,60,44,-72
+159,19_20,23,11,Slalom Speciale,1,2,1,01:57:57,-1.78,Finlandia,Levi,600,100,68,25
+158,19_20,26,10,Slalom Gigante,4,1,2,02:17:42,0.06,Austria,Solden,3048,80,47,11
+157,18_19,17,3,Slalom Gigante,5,1,1,02:23:17,-0.3,Andorra,Soldeu,2450,100,43,2
+156,18_19,16,3,Slalom Speciale,6,2,1,01:48:15,-0.07,Andorra,Soldeu,2350,100,43,2
+155,18_19,14,3,SuperG,13,NA,4,01:24:25,0.31,Andorra,Soldeu,2550,50,43,2
+154,18_19,9,3,Slalom Speciale,2,1,1,01:39:38,-0.85,Repubblica Ceca,Spindleruv Mlyn,1250,100,51,16
+153,18_19,8,3,Slalom Gigante,6,4,3,02:25:29,0.5,Repubblica Ceca,Spindleruv Mlyn,1300,60,51,16
+152,18_19,19,2,Slalom Parallelo,NA,NA,1,13:11:00,-0.24,Svezia,Stoccolma,NA,100,59,18
+151,18_19,2,2,Slalom Speciale,3,1,1,01:43:00,-0.77,Svezia,Stoccolma,NA,100,59,18
+150,18_19,1,2,Slalom Gigante,4,1,1,02:31:31,0.93,Sloveniza,Maribor,1327,80,46,15
+149,18_19,20,1,SuperG,17,NA,1,01:22:48,-0.16,Italia,Cortina,2350,100,44,12
+148,18_19,15,1,Slalom Gigante,5,1,1,02:05:15,-1.21,Italia,Kronplatz,1860,100,47,12
+147,18_19,8,1,Slalom Speciale,4,1,2,01:53:00,0.15,Austria,Flachau,1150,80,47,13
+146,18_19,5,1,Slalom Speciale,6,1,1,02:01:09,-1.25,Croazia,Zagabria,840,100,46,16
+145,18_19,1,1,Slalom Parallelo,1,NA,2,13:28:00,0.39,Norvegia,Oslo,400,80,60,11
+144,18_19,29,12,Slalom Speciale,5,1,1,01:43:39,-0.29,Austria,Semmering,1200,100,47,16
+143,18_19,28,12,Slalom Gigante,6,1,5,02:05:48,0.76,Austria,Semmering,1100,45,47,16
+142,18_19,22,12,Slalom Speciale,3,1,1,01:37:12,0.29,Francia,Courchevel,2300,100,45,6
+141,18_19,21,12,Slalom Gigante,6,2,1,01:50:21,-0.14,Francia,Courchevel,2250,100,45,6
+140,18_19,9,12,Slalom Parallelo,NA,NA,1,03:22:00,-0.11,Svizzera,Sankt Moritz,2500,100,46,10
+139,18_19,8,12,SuperG,12,NA,1,01:11:30,-0.28,Svizzera,Sankt Moritz,2840,100,46,10
+138,18_19,2,12,SuperG,12,NA,1,01:19:41,-0.77,Canada,Lake Louise,2225,100,51,-116
+137,18_19,1,12,Discesa Libera,13,NA,4,01:48:31,0.73,Canada,Lake Louise,2300,50,51,-116
+136,18_19,30,11,Discesa Libera,13,NA,9,01:49:36,1.26,Canada,Lake Louise,2200,29,51,-116
+135,18_19,25,11,Slalom Speciale,3,1,1,01:43:26,-0.67,Stati Uniti,Killington,1100,100,44,-72
+134,18_19,24,11,Slalom Gigante,1,6,4,01:52:32,1.01,Stati Uniti,Killington,1400,50,44,-72
+133,18_19,17,11,Slalom Speciale,1,1,1,01:33:01,-0.58,Finlandia,Levi,580,100,68,25
+132,18_19,27,10,Slalom Gigante,2,4,3,02:01:45,0.06,Austria,Solden,3048,60,47,11
+131,17_18,17,3,Slalom Speciale,6,1,1,01:46:42,-1.58,Svezia,Are,630,100,63,13
+130,17_18,10,3,Slalom Speciale,4,1,1,01:49:10,-0.09,Germania,Ofterschwang,1100,100,47,10
+129,17_18,9,3,Slalom Gigante,5,4,3,02:35:54,0.64,Germania,Ofterschwang,1000,60,47,10
+128,17_18,28,1,Slalom Speciale,3,1,40,NA,NA,Svizzera,Lenzerheide,1474,0,47,10
+127,17_18,27,1,Slalom Gigante,6,5,7,02:13:18,2.13,Svizzera,Lenzerheide,2300,36,47,10
+126,17_18,23,1,Slalom Gigante,2,39,41,NA,NA,Italia,Kronplatz,2300,0,47,12
+125,17_18,21,1,SuperG,16,39,41,NA,NA,Italia,Cortina,2175,0,44,12
+124,17_18,20,1,Discesa Libera,11,NA,7,01:38:33,0.145,Italia,Cortina,2300,36,44,12
+123,17_18,19,1,Discesa Libera,10,NA,3,01:37:29,0.84,Italia,Cortina,2350,60,44,12
+122,17_18,9,1,Slalom Speciale,4,2,1,01:51:26,-0.94,Austria,Flachau,1100,100,47,13
+121,17_18,7,1,Slalom Speciale,2,1,1,01:43:50,-1.64,Sloveniza,Kranjska Gora,1120,100,46,14
+120,17_18,6,1,Slalom Gigante,7,1,1,01:47:40,-0.31,Slovenia,Kranjska Gora,1200,100,46,14
+119,17_18,3,1,Slalom Speciale,4,1,1,01:53:07,-1.59,Croazia,Zagabria,860,100,46,16
+118,17_18,1,1,Combinata Alpina,1,NA,1,01:19:23,0.17,Norvegia,Oslo,1250,100,60,11
+117,17_18,29,12,Slalom Gigante,1,2,3,02:06:00,0.08,Austria,Lienz,750,60,46,12
+116,17_18,28,12,Slalom Speciale,2,1,1,01:44:27,-0.89,Austria,Lienz,680,100,46,12
+115,17_18,20,12,Slalom Parallelo,NA,NA,1,07:45:00,-0.04,Francia,Courchevel,2100,100,45,6
+114,17_18,19,12,Slalom Gigante,5,1,1,02:02:40,-0.99,Francia,Courchevel,2300,100,45,6
+113,17_18,9,12,SuperG,6,NA,20,01:04:36,1.37,Svizzera,Sankt Moritz,2800,11,46,10
+112,17_18,3,12,SuperG,14,NA,5,01:19:36,1.16,Canada,Lake Louise,2225,45,51,-116
+111,17_18,2,12,Discesa Libera,8,NA,1,01:27:55,-0.13,Canada,Lake Louise,2300,100,51,-116
+110,17_18,1,12,Discesa Libera,10,NA,3,01:49:23,0.3,Canada,Lake Louise,2200,60,51,-116
+109,17_18,26,11,Slalom Speciale,5,1,1,01:41:31,-1.61,Stati Uniti,Killington,1100,100,44,-72
+108,17_18,25,11,Slalom Gigante,6,2,2,S1:58:30,0.67,Stati Uniti,Killington,1300,80,44,-72
+107,17_18,11,11,Slalom Speciale,3,1,2,01:50:08,0.1,Finlandia,Levi,580,80,68,25
+106,17_18,28,10,Slalom Gigante,2,2,5,01:56:34,0.74,Austria,Solden,3048,45,47,11
+105,16_17,19,3,Slalom Gigante,3,2,6,02:00:15,2.14,Stati Uniti,Aspen,2300,40,40,-106
+104,16_17,18,3,Slalom Speciale,7,3,2,01:32:24,0.24,Stati Uniti,Aspen,2200,80,40,-106
+103,16_17,11,3,Slalom Speciale,7,2,1,01:39:48,-1.03,Stati Uniti,Squaw Valley,2000,100,37,-119
+102,16_17,10,3,Slalom Gigante,7,1,1,02:16:42,-0.07,Stati Uniti,Squaw Valley,2200,100,37,-119
+101,16_17,26,2,Combinata Alpina,31,7,1,02:07:16,-0.7,Svizzera,Crans-Montana,2800,100,46,7
+100,16_17,25,2,SuperG,2,NA,13,01:24:29,2.11,Svizzera,Crans-Montana,2600,20,46,7
+99,16_17,31,1,Slalom Parallelo,NA,NA,1,09:34:00,0.22,Svezia,Stoccolma,NA,100,59,18
+98,16_17,29,1,SuperG,31,NA,4,01:20:54,1.27,Italia,Cortina,2175,50,44,12
+97,16_17,24,1,Slalom Speciale,3,9,5,02:11:14,1.09,Italia,Kronplatz,2200,45,47,12
+96,16_17,10,1,Slalom Speciale,7,5,3,01:52:18,0.78,Austria,Flachau,1100,60,47,13
+95,16_17,8,1,Slalom Speciale,5,1,1,01:40:01,-0.19,Sloveniza,Maribor,1300,100,46,15
+94,16_17,7,1,Slalom Gigante,6,1,4,02:17:38,0.42,Slovenia,Maribor,1300,50,46,15
+93,16_17,3,1,Slalom Speciale,5,39,41,NA,NA,Croazia,Zagabria,860,0,46,16
+92,16_17,29,12,Slalom Speciale,7,1,1,01:40:06,-0.64,Austria,Semmering,1200,100,47,16
+91,16_17,28,12,Slalom Gigante,6,1,1,02:09:40,-0.15,Austria,Semmering,1150,100,47,16
+90,16_17,27,12,Slalom Gigante,15,1,1,02:02:21,-0.78,Austria,Semmering,1200,100,47,16
+89,16_17,11,12,Slalom Speciale,1,1,1,01:38:20,-1.09,Italia,Sestriere,2350,100,45,7
+88,16_17,10,12,Slalom Gigante,8,1,6,02:18:41,0.96,Italia,Sestriere,2200,40,45,7
+87,16_17,4,12,SuperG,31,NA,34,01:04:52,1.84,Canada,Lake Louise,2250,0,51,-116
+86,16_17,3,12,Discesa Libera,31,NA,13,01:26:41,1.46,Canada,Lake Louise,2300,20,51,-116
+85,16_17,2,12,Discesa Libera,31,NA,18,01:47:47,1.99,Canada,Lake Louise,2250,13,51,-116
+84,16_17,27,11,Slalom Speciale,1,1,1,01:28:35,-0.71,Stati Uniti,Killington,1100,100,44,-72
+83,16_17,26,11,Slalom Gigante,10,8,5,02:00:50,1.34,Stati Uniti,Killington,1200,45,44,-72
+82,16_17,12,11,Slalom Speciale,7,1,1,01:53:11,-0.67,Finlandia,Levi,580,100,68,25
+81,16_17,22,10,Slalom Gigante,16,2,2,02:24:46,0.44,Austria,Solden,3048,80,47,11
+80,15_16,20,3,Slalom Gigante,16,39,41,NA,NA,Svizzera,Sankt Moritz,2800,0,46,10
+79,15_16,19,3,Slalom Speciale,4,1,1,01:44:36,-1.03,Svizzera,Sankt Moritz,2800,100,46,10
+78,15_16,7,3,Slalom Gigante,11,11,14,02:32:44,1.88,Slovacchia,Jasna,1500,18,49,19
+77,15_16,6,3,Slalom Speciale,2,1,1,01:56:00,-1.36,Slovacchia,Jasna,1250,100,49,19
+76,15_16,28,2,Combinata Alpina,33,31,8,01:45:23,1.56,Andorra,Soldeu,2400,32,43,2
+75,15_16,27,2,SuperG,31,NA,29,59:64,2.31,Andorra,Soldeu,2300,2,43,2
+74,15_16,15,2,Slalom Speciale,6,1,1,01:29:20,-0.45,Svizzera,Crans-Montana,2700,100,46,7
+73,15_16,6,12,SuperG,31,NA,15,01:22:08,2.19,Canada,Lake Louise,2300,16,51,-116
+72,15_16,29,11,Slalom Speciale,4,1,1,01:40:18,-1.65,Stati Uniti,Aspen,2300,100,40,-106
+71,15_16,28,11,Slalom Speciale,3,1,1,01:40:21,-2.09,Stati Uniti,Aspen,2250,100,40,-106
+70,15_16,27,11,Slalom Gigante,4,1,40,NA,NA,Stati Uniti,Aspen,2300,0,40,-106
+69,15_16,24,10,Slalom Gigante,5,2,2,02:25:12,0.85,Austria,Solden,3048,80,47,11
+68,14_15,22,3,Slalom Gigante,2,8,7,02:29:16,1.86,Francia,Meribel,1900,36,46,6
+67,14_15,21,3,Slalom Speciale,2,2,1,01:34:08,-0.05,Francia,Meribel,2100,100,46,6
+66,14_15,14,3,Slalom Speciale,6,1,1,01:44:56,-1.41,Svezia,Are,630,100,63,13
+65,14_15,13,3,Slalom Gigante,2,6,4,02:25:29,1.09,Svezia,Are,650,50,63,13
+64,14_15,22,2,Slalom Speciale,3,1,1,01:39:12,-1.03,Slovenia,Maribor,1327,100,46,15
+63,14_15,21,2,Slalom Gigante,3,3,5,02:25:04,0.54,Slovenia,Maribor,1300,45,46,15
+62,14_15,13,1,Slalom Speciale,2,8,3,01:50:22,-0.82,Austria,Flachau,1125,60,47,13
+61,14_15,4,1,Slalom Speciale,7,1,1,01:57:06,-0.68,Croazia,Zagabria,860,100,46,16
+60,14_15,29,12,Slalom Speciale,2,1,1,01:43:39,-0.8,Austria,Kuehtai in Tirol,2000,100,47,11
+59,14_15,28,12,Slalom Gigante,1,1,3,02:18:19,0.18,Austria,Kuehtai in Tirol,2000,60,47,11
+58,14_15,13,12,Slalom Speciale,1,6,4,01:44:39,0.34,Svezia,Are,630,50,63,13
+57,14_15,12,12,Slalom Gigante,2,8,10,02:25:20,1.36,Svezia,Are,650,26,63,13
+56,14_15,30,11,Slalom Speciale,2,1,5,01:46:38,1.08,Stati Uniti,Aspen,2200,45,40,-106
+55,14_15,29,11,Slalom Gigante,4,10,6,02:08:08,1.71,Stati Uniti,Aspen,2300,40,40,-106
+54,14_15,15,11,Slalom Speciale,4,14,11,01:57:22,2.07,Finlandia,Levi,580,24,68,25
+53,14_15,25,10,Slalom Gigante,1,1,1,02:40:25,-0.27,Austria,Solden,3048,100,47,11
+52,13_14,16,3,Slalom Gigante,2,4,12,02:02:23,0.95,Svizzera,Lenzerheide,2300,22,47,10
+51,13_14,15,3,Slalom Speciale,1,1,1,02:04:54,-0.44,Svizzera,Lenzerheide,1474,100,47,10
+50,13_14,8,3,Slalom Speciale,2,1,1,01:51:06,-0.7,Svezia,Are,630,100,63,13
+49,13_14,7,3,Slalom Gigante,2,18,24,02:03:27,3.12,Svezia,Are,650,7,63,13
+48,13_14,6,3,Slalom Gigante,7,13,15,02:28:55,1.16,Svezia,Are,640,16,63,13
+47,13_14,2,2,Slalom Speciale,3,1,7,01:51:29,0.62,Slovenia,Kranjska Gora,1200,36,46,14
+46,13_14,14,1,Slalom Speciale,5,1,1,01:46:23,0.84,Austria,Flachau,1125,100,47,13
+45,13_14,5,1,Slalom Speciale,3,1,1,02:00:41,-0.13,Italia,Bormio,2240,100,46,10
+44,13_14,29,12,Slalom Speciale,3,1,2,01:56:04,0.41,Austria,Lienz,680,80,46,12
+43,13_14,28,12,Slalom Gigante,7,4,3,02:17:51,0.51,Austria,Lienz,700,60,46,12
+42,13_14,22,12,Slalom Gigante,3,12,8,02:25:57,1.47,Francia,Val d'Isere,2747,32,45,7
+41,13_14,17,12,Slalom Speciale,1,7,12,01:47:28,1.89,Francia,Courchevel,2300,22,45,6
+40,13_14,15,12,Slalom Gigante,1,39,41,NA,NA,Svizzera,Sankt Moritz,2800,0,46,10
+39,13_14,1,12,Slalom Gigante,8,2,2,02:18:01,0.09,Stati Uniti,Beaver Creek,2630,80,40,-106
+38,13_14,16,11,Slalom Speciale,4,1,1,01:55:07,-1.06,Finlandia,Levi,580,100,68,25
+37,13_14,26,10,Slalom Gigante,15,5,6,02:27:18,1.48,Austria,Solden,3048,40,47,11
+36,12_13,17,3,Slalom Gigante,16,13,11,02:20:25,3.58,Svizzera,Lenzerheide,2300,24,47,10
+35,12_13,16,3,Slalom Speciale,5,4,1,01:56:00,-0.2,Svizzera,Lenzerheide,1474,100,47,10
+34,12_13,10,3,Slalom Speciale,5,1,3,01:54:00,0.75,Germania,Ofterschwang,1100,60,47,10
+33,12_13,9,3,Slalom Gigante,11,39,41,NA,NA,Germania,Ofterschwang,1000,0,47,10
+32,12_13,29,1,Slalom Parallelo,NA,NA,3,35:86,0.27,Russia,Mosca,55,60,57,38
+31,12_13,27,1,Slalom Speciale,6,13,8,01:36:01,1.93,Slovenia,Maribor,1327,32,46,15
+30,12_13,26,1,Slalom Gigante,17,10,13,02:24:00,1.8,Slovenia,Maribor,1300,20,46,15
+29,12_13,15,1,Slalom Speciale,1,2,1,01:51:45,-0.85,Austria,Flachau,1150,100,47,13
+28,12_13,4,1,Slalom Speciale,2,1,1,02:02:13,-1.19,Croazia,Zagabria,860,100,46,16
+27,12_13,1,1,Slalom Parallelo,NA,NA,6,09:29:00,0.53,Germania,Monaco di Baviera,1000,40,48,12
+26,12_13,29,12,Slalom Speciale,6,40,41,NA,NA,Austria,Semmering,1200,0,47,16
+25,12_13,28,12,Slalom Gigante,27,12,8,02:16:17,2.68,Austria,Semmering,1100,32,47,16
+24,12_13,20,12,Slalom Speciale,10,2,1,01:45:36,-0.29,Svezia,Are,630,100,63,13
+23,12_13,19,12,Slalom Gigante,27,17,40,NA,NA,Svezia,Are,650,0,63,13
+22,12_13,16,12,Slalom Gigante,42,20,9,02:19:03,2.77,Francia,Courchevel,2250,29,45,6
+21,12_13,9,12,Slalom Gigante,42,18,40,NA,NA,Svizzera,Sankt Moritz,2800,0,46,10
+20,12_13,25,11,Slalom Speciale,13,10,7,01:45:52,3.06,Stati Uniti,Aspen,2200,36,40,-106
+19,12_13,24,11,Slalom Gigante,42,18,9,02:02:13,1.34,Stati Uniti,Aspen,2300,12,40,-106
+18,12_13,10,11,Slalom Speciale,18,3,3,01:56:32,0.74,Finlandia,Levi,580,60,68,25
+17,12_13,26,10,Slalom Gigante,41,31,41,00:00:00,NA,Austria,Solden,3048,0,47,11
+16,11_12,17,3,Slalom Speciale,17,17,15,01:34:54,1.93,Austria,Schladming,950,16,47,14
+15,11_12,10,3,Slalom Speciale,18,4,9,01:50:29,0.39,Svezia,Are,630,29,63,13
+14,11_12,9,3,Slalom Gigante,47,44,41,00:00:00,NA,Svezia,Are,650,0,63,13
+13,11_12,4,3,Slalom Speciale,18,3,27,02:06:21,5.62,Germania,Ofterschwang,1100,4,47,10
+12,11_12,12,2,Slalom Gigante,53,28,26,02:05:06,3.88,Andorra,Soldeu,2300,5,43,2
+11,11_12,11,2,Slalom Speciale,23,20,10,01:41:25,1.81,Andorra,Soldeu,2300,26,43,2
+10,11_12,22,1,Slalom Speciale,20,32,41,00:00:00,NA,Slovenia,Kranjska Gora,1200,0,46,14
+9,11_12,3,1,Slalom Speciale,22,39,41,NA,NA,Croazia,Zagabria,860,0,46,16
+8,11_12,29,12,Slalom Speciale,40,12,3,01:53:12,1.3,Austria,Lienz,680,60,46,12
+7,11_12,28,12,Slalom Gigante,56,53,41,00:00:00,NA,Austri,Lienz,700,0,46,12
+6,11_12,20,12,Slalom Speciale,38,39,41,NA,NA,Austria,Flachau,1150,0,47,13
+5,11_12,18,12,Slalom Speciale,38,39,41,NA,NA,Francia,Courchevel,2300,0,45,6
+4,11_12,27,11,Slalom Speciale,37,13,8,01:47:03,0.99,Stati Uniti,Aspen,2200,32,40,-106
+3,11_12,26,11,Slalom Speciale,55,35,41,00:00:00,NA,Stati Uniti,Aspen,2300,0,40,-106
+2,10_11,12,3,Slalom Speciale,40,32,41,00:00:00,NA,Repubblica Cece,Spindleruv Mlyn,1250,0,51,16
+1,10_11,11,3,Slalom Gigante,46,43,41,00:00:00,NA,Repubblica Cece,Spindleruv Mlyn,1300,0,51,16
